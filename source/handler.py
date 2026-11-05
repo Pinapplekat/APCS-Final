@@ -1,4 +1,4 @@
-# Backend created by @DanTCA1 & Frontend somewhat created by Elijah Ryerson (@Pinapplekat)
+# Backend created by @DanTCA1 & Frontend developed by Elijah Ryerson (@Pinapplekat)
 
 # Importing packages
 import socket, types, traceback, sys, os, time, subprocess, pyttsx3, multiprocessing, json, speech_recognition as sr
